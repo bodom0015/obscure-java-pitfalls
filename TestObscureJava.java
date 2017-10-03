@@ -46,7 +46,7 @@ public class TestObscureJava {
         }
     }
     
-    // When dealing with any Objects, it is always bezt to rely on that Object's .equals() method
+    // When dealing with any Objects, it is always best to rely on that Object's .equals() method
     // Reference-equality works when at least one value is a primitive, but is not guaranteed to work for Objects
     @Test
     public void testEqualsEquals() {
